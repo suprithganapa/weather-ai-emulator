@@ -12,7 +12,7 @@
 
 ## 🎯 Overview
 
-WeatherSense AI is an advanced weather prediction system that leverages **CNN-LSTM neural networks** to forecast weather conditions across **9 Indian cities** with **super-high accuracy** (< 0.67°C temperature error for 3-hour predictions).
+WeatherSense AI is an advanced weather prediction system that leverages **CNN-LSTM neural networks** to forecast weather conditions across **9 Indian cities** with **super-high accuracy** .
 
 The system provides **5 prediction horizons** (1h, 3h, 6h, 12h, 24h) and detects **10 types of extreme weather events** including cloudbursts, heatwaves, and cyclonic conditions.
 
