@@ -26,11 +26,9 @@ npm-debug.log*
 *.swp
 *.swo
 
-# Project specific
-checkpoints/
+# Project
 data/
-*.pt
-*.npy
+*.csv
 
 # OS
 .DS_Store
