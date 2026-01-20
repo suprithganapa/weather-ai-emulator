@@ -379,6 +379,4 @@ For issues, questions, or contributions:
 
 ---
 
-**Built with ❤️ using AI assistance from Claude**
-
 *Making weather predictions more accurate, one city at a time!* 🌈
